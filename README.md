@@ -1,5 +1,5 @@
-## project: 
-- (PoC) Data Analytics with Naver Search Data on Naver Cloud Databox Environment
+## Proof of Concept: : 
+- Data Analytics with Naver Search Data on Naver Cloud Databox Environment
 ## client: 
 - Samsung Fund (KODEX)
 ## duration: 
